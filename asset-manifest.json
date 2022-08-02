@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rekog/static/css/main.c7100d0d.css",
+    "main.js": "/rekog/static/js/main.2f8ee0ff.js",
+    "static/js/787.0733ddc5.chunk.js": "/rekog/static/js/787.0733ddc5.chunk.js",
+    "static/media/SEGA.woff": "/rekog/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/rekog/index.html",
+    "main.c7100d0d.css.map": "/rekog/static/css/main.c7100d0d.css.map",
+    "main.2f8ee0ff.js.map": "/rekog/static/js/main.2f8ee0ff.js.map",
+    "787.0733ddc5.chunk.js.map": "/rekog/static/js/787.0733ddc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7100d0d.css",
+    "static/js/main.2f8ee0ff.js"
+  ]
+}
